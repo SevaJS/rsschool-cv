@@ -1,1 +1,1 @@
-# rsschool-cv
+https://SevaJS.github.io/rsschool-cv/
